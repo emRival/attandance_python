@@ -17,7 +17,7 @@ Follow these steps to get started with the Prayer Attendance System:
    ```
 5. **Fetch and Save API Data**: Execute the script to fetch and save the necessary API data:
    ```sh
-   python fetch_and_save_api-data.py
+   python fetch_and_save_api_data.py
    ```
 
 You're all set! Enjoy using the Prayer Attendance System.
